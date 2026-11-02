@@ -13,13 +13,6 @@ To create a basic React application using Vite and understand the purpose of imp
 - Create and use simple React components.
 - Run and test a React application.
 
-## Software Requirements
-- Visual Studio Code
-- Node.js
-- React JS
-- Vite
-- Web Browser
-
 ## Program
 
 ### Step 1: Create a React Project
